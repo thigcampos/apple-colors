@@ -9,7 +9,7 @@ git clone https://github.com/thigcampos/apple-colors
 ```
 #### Activating theme
 
-1. Move `dracula.toml` to inside themes folder in `$HOME/.config/rio/themes` (e.g: `~/.config/rio/themes`)
+1. Move `apple-colors.toml` to inside themes folder in `$HOME/.config/rio/themes` (e.g: `~/.config/rio/themes`)
 2. Update `$HOME/.config/rio/config.toml` to activate the theme:
 
 **config.toml**
